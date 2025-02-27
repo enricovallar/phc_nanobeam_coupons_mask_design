@@ -1,0 +1,12 @@
+# Ignore cache files
+.cache/
+*.cache
+
+# Ignore GDS files
+.gds/
+*.gds
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+*$py.class
